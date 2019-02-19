@@ -13,6 +13,7 @@ We are developing the specification of the Graphical Fragment Assembly (GFA) for
 + [gfakluge](https://github.com/edawson/gfakluge)
 + [gfalint](https://github.com/sjackman/gfalint)
 + [GfaPy](https://github.com/ggonnella/gfapy)
++ [GfaViz](https://github.com/ggonnella/gfaviz)
 
 ## GFA 1
 
@@ -23,6 +24,8 @@ We are developing the specification of the Graphical Fragment Assembly (GFA) for
 + [Canu](https://github.com/marbl/canu)
 + [fermi mag2gfa](https://github.com/lh3/mag2gfa)
 + [gfakluge](https://github.com/edawson/gfakluge)
++ [GfaPy](https://github.com/ggonnella/gfapy)
++ [GfaViz](https://github.com/ggonnella/gfaviz)
 + [jts/DALIGNER](https://github.com/jts/daligner)
 + [lh3/gfa1](https://github.com/lh3/gfa1)
 + [lh3/gfatools](https://github.com/lh3/gfatools)
